@@ -1,0 +1,151 @@
+﻿OKR,Área del Banco,ID Epica,Costo,Equipo,Ciclo de desarrollo,Fecha de inicio,Fecha de fin,id
+400,Gente,402,6915,equipo 1,hibrido,"May 24, 2024 3:40 PM","Jul 18, 2023 5:35 AM",1
+100,Gente,422,40110,"equipo 5 ",hibrido,"Mar 8, 2024 3:19 PM","Jun 7, 2024 8:45 AM",2
+300,Gente,660,25936,equipo 4,hibrido,"Oct 16, 2023 1:11 PM","Apr 27, 2024 10:31 AM",3
+400,Operaciones,751,18277,equipo 2,agil,"Dec 29, 2023 10:23 PM","Mar 18, 2024 1:40 AM",4
+500,Zona Libre,967,24493,equipo 4,agil,"May 18, 2024 11:38 PM","Apr 27, 2024 1:58 AM",5
+300,Operaciones,500,42386,"equipo 5 ",agil,"Aug 6, 2023 11:54 PM","Apr 25, 2024 1:33 PM",6
+500,Cumplimiento,790,1300,equipo 6,hibrido,"May 21, 2024 9:04 PM","Aug 6, 2023 5:52 PM",7
+200,Cumplimiento,890,8823,equipo 7,hibrido,"Apr 16, 2024 10:22 AM","Jul 2, 2023 4:34 AM",8
+300,Credito,814,15376,equipo 4,hibrido,"Apr 28, 2024 1:59 PM","Dec 31, 2023 6:13 AM",9
+300,Operaciones,673,16151,"equipo 5 ",hibrido,"Feb 25, 2024 2:33 AM","Dec 4, 2023 9:04 AM",10
+500,Credito,728,17849,equipo 6,hibrido,"Jan 10, 2024 10:23 PM","Feb 16, 2024 11:27 AM",11
+400,Zona Libre,583,12836,equipo 7,hibrido,"May 21, 2024 4:12 PM","Feb 28, 2024 8:48 AM",12
+300,Zona Libre,311,37527,equipo 6,hibrido,"Oct 2, 2023 4:57 PM","Aug 31, 2023 6:07 PM",13
+500,Cumplimiento,459,40975,equipo 7,agil,"Mar 31, 2024 4:09 PM","Dec 30, 2023 1:40 PM",14
+200,Cumplimiento,961,15310,equipo 2,agil,"Jun 7, 2024 12:18 PM","May 22, 2024 3:58 AM",15
+400,Operaciones,818,20410,"equipo 5 ",agil,"Mar 1, 2024 4:09 PM","Nov 22, 2023 2:08 AM",16
+100,Operaciones,469,22698,equipo 6,agil,"Jul 15, 2023 7:44 AM","Jan 20, 2024 1:25 AM",17
+100,Operaciones,599,32257,"equipo 5 ",agil,"Dec 6, 2023 10:32 AM","Mar 17, 2024 4:33 PM",18
+200,Credito,546,32453,"equipo 5 ",hibrido,"Apr 27, 2024 1:21 PM","Jan 11, 2024 12:08 PM",19
+100,Tecnologia,808,3722,equipo 7,agil,"Jul 1, 2023 9:06 PM","May 12, 2024 3:06 PM",20
+300,Operaciones,565,3370,equipo 3,agil,"Jan 29, 2024 4:30 AM","Mar 11, 2024 9:45 AM",21
+500,Cumplimiento,377,28806,"equipo 5 ",hibrido,"Feb 25, 2024 3:31 AM","Mar 4, 2024 7:04 PM",22
+400,Zona Libre,992,30407,equipo 6,agil,"Oct 18, 2023 1:24 PM","Mar 7, 2024 10:55 AM",23
+200,Credito,388,28373,equipo 6,hibrido,"Mar 1, 2024 4:01 PM","Nov 10, 2023 3:16 AM",24
+300,Operaciones,287,9759,equipo 4,agil,"Jun 7, 2023 2:41 AM","Sep 17, 2023 4:29 AM",25
+400,Gente,753,41801,equipo 6,agil,"Sep 20, 2023 12:02 AM","Nov 11, 2023 5:48 PM",26
+300,Zona Libre,546,22251,equipo 7,hibrido,"Jun 23, 2023 9:28 AM","Feb 17, 2024 8:11 AM",27
+200,Operaciones,903,43711,"equipo 5 ",agil,"Oct 24, 2023 3:42 PM","Nov 9, 2023 9:35 PM",28
+400,Credito,904,8720,equipo 3,agil,"Feb 4, 2024 6:33 AM","Jan 14, 2024 1:38 AM",29
+400,Zona Libre,508,14659,equipo 6,agil,"Nov 4, 2023 1:14 AM","Apr 11, 2024 5:58 PM",30
+300,Credito,263,33256,equipo 2,hibrido,"Jul 28, 2023 10:44 PM","Dec 28, 2023 12:17 PM",31
+300,Cumplimiento,494,7887,equipo 4,agil,"Apr 4, 2024 11:30 PM","Jun 3, 2024 3:57 AM",32
+200,Operaciones,269,19181,"equipo 5 ",agil,"Feb 24, 2024 11:57 PM","May 16, 2024 10:26 PM",33
+300,Credito,659,26582,equipo 7,agil,"Mar 18, 2024 10:06 AM","Mar 29, 2024 1:27 AM",34
+500,Cumplimiento,387,20223,equipo 6,hibrido,"Dec 28, 2023 9:43 PM","Dec 6, 2023 2:53 AM",35
+300,Cumplimiento,694,25680,equipo 3,agil,"Mar 23, 2024 7:08 AM","Feb 20, 2024 5:41 PM",36
+300,Payments,582,19660,equipo 6,hibrido,"Oct 13, 2023 10:50 PM","Jul 8, 2023 12:31 AM",37
+400,Credito,292,21648,equipo 3,hibrido,"Oct 30, 2023 5:58 PM","Dec 1, 2023 4:22 PM",38
+100,Credito,770,10719,equipo 7,hibrido,"Apr 5, 2024 5:28 PM","Jan 13, 2024 1:19 PM",39
+200,Payments,751,7351,equipo 3,hibrido,"Aug 25, 2023 8:49 AM","Jan 15, 2024 12:05 AM",40
+200,Gente,657,28086,equipo 3,agil,"Apr 20, 2024 12:15 PM","Dec 25, 2023 8:51 AM",41
+300,Payments,550,13870,equipo 2,agil,"Sep 19, 2023 11:10 PM","Nov 9, 2023 9:16 AM",42
+400,Payments,413,5837,equipo 2,hibrido,"Mar 23, 2024 8:34 PM","Sep 30, 2023 7:04 PM",43
+200,Zona Libre,314,24988,equipo 7,hibrido,"Jul 27, 2023 4:48 PM","Jun 17, 2024 10:22 AM",44
+400,Payments,576,32241,equipo 3,hibrido,"Feb 27, 2024 6:41 AM","Mar 4, 2024 1:39 AM",45
+400,Gente,850,2705,"equipo 5 ",agil,"Nov 15, 2023 10:39 PM","Jan 9, 2024 8:52 AM",46
+400,Gente,478,29504,equipo 4,agil,"Apr 10, 2024 3:35 PM","Apr 8, 2024 12:42 AM",47
+200,Gente,877,10071,equipo 6,agil,"Jul 25, 2023 6:43 AM","Nov 2, 2023 4:37 AM",48
+400,Gente,878,29366,equipo 2,agil,"Feb 25, 2024 6:26 AM","Nov 8, 2023 1:24 PM",49
+200,Credito,739,32334,equipo 4,hibrido,"Dec 10, 2023 6:30 PM","Dec 10, 2023 1:20 PM",50
+100,Payments,354,9647,equipo 2,hibrido,"Oct 19, 2023 5:18 PM","Jun 30, 2024 1:52 PM",51
+200,Credito,883,3361,equipo 7,hibrido,"Feb 22, 2024 8:44 AM","Oct 17, 2023 12:55 AM",52
+400,Zona Libre,346,42144,equipo 6,agil,"Oct 2, 2023 3:59 AM","May 3, 2024 3:22 PM",53
+200,Tecnologia,746,33714,equipo 2,hibrido,"Jun 17, 2023 5:25 PM","Nov 25, 2023 7:36 AM",54
+300,Gente,367,13047,equipo 2,hibrido,"Jul 25, 2023 2:11 PM","Mar 23, 2024 3:31 PM",55
+100,Tecnologia,738,32555,equipo 6,agil,"Nov 3, 2023 5:31 AM","May 13, 2024 2:28 AM",56
+400,Corporativa,828,3877,equipo 4,hibrido,"Mar 11, 2024 5:21 AM","May 14, 2024 8:25 PM",57
+300,Corporativa,402,34520,equipo 4,hibrido,"Jan 22, 2024 10:56 PM","Jun 21, 2024 11:33 AM",58
+400,Cumplimiento,927,28989,equipo 4,hibrido,"May 2, 2024 11:06 AM","Mar 30, 2024 1:44 AM",59
+400,Corporativa,954,14816,equipo 4,agil,"Jun 13, 2023 4:43 AM","Apr 24, 2024 9:20 PM",60
+200,Tecnologia,379,32257,equipo 6,agil,"Feb 20, 2024 8:02 AM","Mar 25, 2024 2:02 AM",61
+400,Cumplimiento,514,23490,equipo 4,hibrido,"Jun 18, 2023 6:18 PM","Feb 4, 2024 4:15 AM",62
+300,Zona Libre,782,4096,equipo 7,agil,"Aug 10, 2023 10:09 AM","Nov 25, 2023 7:46 AM",63
+500,Gente,658,28244,equipo 1,agil,"Oct 14, 2023 1:36 PM","Feb 5, 2024 10:07 PM",64
+400,Zona Libre,399,12607,equipo 6,hibrido,"Sep 29, 2023 3:13 AM","May 27, 2024 1:22 PM",65
+300,Operaciones,728,28881,"equipo 5 ",hibrido,"Mar 31, 2024 2:32 AM","May 31, 2024 5:19 PM",66
+200,Gente,608,35078,"equipo 5 ",agil,"Jul 3, 2023 7:55 PM","Oct 5, 2023 8:01 PM",67
+200,Payments,771,32154,"equipo 5 ",hibrido,"Jun 6, 2024 6:26 AM","Mar 30, 2024 9:58 PM",68
+300,Credito,915,10213,equipo 4,agil,"May 10, 2024 5:37 PM","Feb 12, 2024 4:04 PM",69
+100,Payments,421,38815,equipo 6,agil,"May 26, 2024 7:06 PM","Jan 5, 2024 9:08 AM",70
+200,Operaciones,449,28297,"equipo 5 ",agil,"Jan 11, 2024 7:50 PM","Feb 26, 2024 6:08 PM",71
+400,Gente,877,31261,equipo 4,hibrido,"Apr 13, 2024 4:53 PM","May 22, 2024 11:33 AM",72
+200,Gente,782,10140,equipo 4,hibrido,"Apr 16, 2024 6:58 PM","Feb 19, 2024 7:11 PM",73
+200,Zona Libre,401,41521,equipo 1,hibrido,"Feb 1, 2024 12:39 AM","Sep 2, 2023 12:00 PM",74
+200,Zona Libre,494,13614,"equipo 5 ",agil,"Sep 9, 2023 11:53 PM","Aug 30, 2023 4:29 AM",75
+500,Operaciones,825,32169,equipo 4,hibrido,"Dec 12, 2023 2:38 PM","Sep 10, 2023 4:04 PM",76
+200,Zona Libre,716,27399,"equipo 5 ",agil,"Jan 12, 2024 2:36 AM","Jun 17, 2024 5:22 PM",77
+200,Corporativa,288,22560,"equipo 5 ",hibrido,"Jun 13, 2024 1:07 AM","Jan 26, 2024 5:23 PM",78
+200,Operaciones,870,3053,equipo 3,hibrido,"Nov 8, 2023 1:05 AM","Aug 12, 2023 4:08 PM",79
+300,Payments,384,15634,"equipo 5 ",agil,"Jan 8, 2024 4:45 PM","Aug 8, 2023 6:31 PM",80
+200,Zona Libre,992,4090,"equipo 5 ",hibrido,"Mar 30, 2024 4:40 PM","Dec 1, 2023 6:32 AM",81
+200,Gente,560,15160,equipo 6,hibrido,"Jan 18, 2024 7:41 AM","Jun 6, 2024 12:59 PM",82
+200,Cumplimiento,391,37203,"equipo 5 ",hibrido,"Aug 29, 2023 11:11 PM","Sep 6, 2023 7:48 AM",83
+500,Gente,439,13644,equipo 3,hibrido,"Mar 7, 2024 4:55 PM","Mar 8, 2024 9:57 PM",84
+500,Payments,917,12719,equipo 2,agil,"Jul 14, 2023 12:09 PM","Dec 20, 2023 4:27 AM",85
+300,Zona Libre,777,31460,equipo 6,hibrido,"Nov 15, 2023 2:33 PM","Dec 19, 2023 11:33 AM",86
+400,Cumplimiento,808,33533,equipo 7,hibrido,"May 27, 2024 6:55 PM","Jul 17, 2023 8:03 PM",87
+400,Cumplimiento,341,33319,equipo 2,agil,"Oct 15, 2023 10:27 PM","Jun 21, 2024 10:28 AM",88
+300,Operaciones,610,7766,equipo 4,agil,"Oct 18, 2023 10:55 PM","Feb 10, 2024 11:45 AM",89
+300,Credito,747,3762,equipo 7,agil,"Jun 17, 2023 4:12 PM","Oct 9, 2023 7:54 AM",90
+200,Cumplimiento,253,29658,equipo 2,hibrido,"Nov 11, 2023 6:12 AM","Sep 3, 2023 1:07 PM",91
+200,Payments,950,7983,equipo 2,agil,"Sep 9, 2023 9:40 PM","Sep 21, 2023 8:32 AM",92
+500,Zona Libre,963,8777,"equipo 5 ",agil,"Apr 18, 2024 11:08 AM","Jun 23, 2024 10:54 PM",93
+400,Corporativa,494,41018,equipo 1,agil,"May 12, 2024 9:38 AM","Apr 14, 2024 12:26 AM",94
+400,Payments,751,5068,equipo 4,agil,"Jun 13, 2024 2:30 PM","Aug 16, 2023 7:44 PM",95
+300,Gente,881,16418,equipo 6,hibrido,"Feb 25, 2024 2:37 AM","Jan 5, 2024 12:15 PM",96
+100,Credito,951,41516,"equipo 5 ",hibrido,"Nov 27, 2023 10:01 AM","Jun 10, 2024 2:11 AM",97
+200,Operaciones,352,24046,equipo 1,agil,"Jan 16, 2024 4:57 AM","Mar 21, 2024 3:23 PM",98
+200,Tecnologia,494,38236,equipo 6,agil,"Sep 6, 2023 7:58 PM","Aug 18, 2023 9:02 PM",99
+200,Zona Libre,882,32970,equipo 2,agil,"Mar 5, 2024 11:57 AM","May 20, 2024 5:27 AM",100
+200,Tecnologia,780,21874,equipo 1,hibrido,"Dec 4, 2023 1:38 PM","Jan 24, 2024 12:17 PM",101
+200,Gente,418,17807,equipo 6,hibrido,"Nov 17, 2023 5:42 PM","Mar 12, 2024 9:18 AM",102
+100,Cumplimiento,490,18265,equipo 3,agil,"Jun 6, 2023 12:52 AM","Feb 14, 2024 11:31 AM",103
+100,Payments,346,29062,"equipo 5 ",agil,"Mar 30, 2024 9:02 AM","Oct 21, 2023 6:41 PM",104
+400,Zona Libre,599,14591,equipo 3,agil,"Mar 8, 2024 12:17 AM","Dec 9, 2023 3:01 PM",105
+500,Credito,845,39334,equipo 6,agil,"Mar 23, 2024 4:13 AM","Jun 15, 2024 1:43 PM",106
+200,Credito,803,21121,equipo 6,hibrido,"Jun 24, 2023 4:37 PM","Feb 23, 2024 10:41 PM",107
+300,Tecnologia,963,43725,equipo 2,hibrido,"Mar 30, 2024 5:40 AM","Aug 29, 2023 4:58 PM",108
+200,Operaciones,866,3540,"equipo 5 ",hibrido,"Jun 30, 2023 4:33 AM","Aug 7, 2023 11:35 PM",109
+500,Credito,572,44244,equipo 4,agil,"Jun 11, 2023 6:39 PM","Jul 22, 2023 8:55 AM",110
+200,Tecnologia,726,27192,equipo 2,agil,"Jan 27, 2024 1:04 PM","Apr 20, 2024 2:21 AM",111
+200,Gente,787,8718,equipo 2,agil,"Feb 23, 2024 6:31 AM","Nov 28, 2023 7:10 PM",112
+300,Cumplimiento,897,4464,equipo 3,agil,"Nov 6, 2023 2:35 AM","Jul 26, 2023 10:40 AM",113
+400,Cumplimiento,381,35655,equipo 7,agil,"Apr 6, 2024 4:45 PM","Jul 14, 2023 1:20 AM",114
+400,Credito,609,5687,equipo 4,agil,"Jun 4, 2023 3:13 PM","Oct 28, 2023 12:24 AM",115
+400,Corporativa,906,15106,equipo 3,agil,"May 30, 2024 9:39 AM","Jul 26, 2023 4:20 AM",116
+400,Corporativa,927,12162,equipo 6,agil,"Mar 31, 2024 1:25 AM","Oct 4, 2023 10:50 PM",117
+200,Credito,735,3556,equipo 2,agil,"Jan 13, 2024 4:56 PM","Feb 24, 2024 7:50 AM",118
+400,Gente,502,6009,equipo 4,hibrido,"Jul 30, 2023 4:31 AM","May 16, 2024 4:17 AM",119
+100,Payments,429,37602,equipo 3,hibrido,"Jan 12, 2024 3:22 PM","May 27, 2024 11:46 AM",120
+200,Payments,913,21667,equipo 3,agil,"May 3, 2024 4:44 PM","Feb 17, 2024 6:06 AM",121
+400,Operaciones,557,23151,equipo 3,hibrido,"May 11, 2024 9:53 PM","May 28, 2024 8:44 PM",122
+400,Gente,829,19691,equipo 1,agil,"Jul 12, 2023 12:19 AM","Apr 9, 2024 8:48 PM",123
+100,Credito,319,33891,equipo 2,hibrido,"Aug 24, 2023 5:33 PM","Oct 15, 2023 9:05 AM",124
+100,Cumplimiento,987,28139,equipo 4,hibrido,"Apr 30, 2024 8:49 AM","Nov 16, 2023 7:28 PM",125
+200,Tecnologia,828,23862,equipo 6,agil,"Jun 13, 2024 12:28 AM","Feb 8, 2024 6:39 AM",126
+300,Credito,770,37964,equipo 6,hibrido,"Sep 1, 2023 1:37 AM","Mar 26, 2024 8:42 PM",127
+500,Payments,922,36445,equipo 3,hibrido,"Jun 14, 2024 10:42 AM","May 27, 2024 5:41 PM",128
+500,Gente,704,29414,"equipo 5 ",agil,"Aug 16, 2023 9:45 PM","May 12, 2024 4:14 AM",129
+200,Cumplimiento,391,4339,equipo 7,hibrido,"Jun 10, 2024 10:12 PM","Sep 6, 2023 4:35 PM",130
+300,Payments,859,24661,equipo 3,agil,"Jun 11, 2024 6:52 PM","Apr 7, 2024 1:53 AM",131
+400,Operaciones,487,21452,equipo 3,hibrido,"Nov 2, 2023 5:49 PM","Oct 31, 2023 3:05 AM",132
+400,Corporativa,335,29318,"equipo 5 ",hibrido,"Jan 17, 2024 6:08 PM","Mar 24, 2024 10:29 PM",133
+400,Credito,545,43302,equipo 3,hibrido,"Jan 7, 2024 2:55 AM","Feb 15, 2024 5:48 AM",134
+300,Credito,888,31784,equipo 7,agil,"Aug 27, 2023 1:14 PM","Sep 7, 2023 1:26 AM",135
+200,Payments,870,37584,equipo 4,hibrido,"Mar 30, 2024 5:52 AM","Jul 11, 2023 6:30 AM",136
+300,Payments,854,33914,"equipo 5 ",agil,"Jan 8, 2024 9:38 PM","Feb 16, 2024 12:27 AM",137
+300,Tecnologia,899,2784,"equipo 5 ",agil,"Nov 15, 2023 4:09 PM","Oct 11, 2023 2:43 AM",138
+300,Tecnologia,729,33113,equipo 1,agil,"Jun 23, 2023 3:56 PM","Oct 3, 2023 10:37 AM",139
+300,Zona Libre,847,27002,equipo 2,agil,"Apr 6, 2024 11:05 AM","Oct 27, 2023 6:41 PM",140
+100,Gente,959,38493,equipo 4,hibrido,"Feb 3, 2024 2:44 AM","Jan 15, 2024 9:33 PM",141
+300,Cumplimiento,529,16153,equipo 1,agil,"May 30, 2024 9:52 PM","Dec 25, 2023 1:47 PM",142
+400,Credito,938,19031,equipo 2,hibrido,"Aug 12, 2023 10:04 PM","Nov 7, 2023 2:40 PM",143
+300,Gente,460,44096,equipo 6,hibrido,"Dec 16, 2023 6:41 PM","Jul 1, 2024 7:09 AM",144
+100,Operaciones,989,18339,equipo 6,agil,"Sep 10, 2023 8:25 AM","Mar 22, 2024 11:57 AM",145
+300,Operaciones,888,24091,equipo 6,hibrido,"May 17, 2024 9:49 AM","Jul 11, 2023 1:30 PM",146
+300,Cumplimiento,451,5365,equipo 4,agil,"Oct 18, 2023 7:15 AM","Apr 20, 2024 10:56 PM",147
+200,Corporativa,592,23187,"equipo 5 ",agil,"Sep 24, 2023 4:03 AM","Aug 24, 2023 4:46 AM",148
+200,Zona Libre,528,33312,equipo 6,agil,"Aug 20, 2023 7:05 PM","Jul 19, 2023 2:39 AM",149
+200,Gente,887,7408,equipo 3,agil,"Jan 12, 2024 3:12 PM","Dec 27, 2023 1:04 PM",150
